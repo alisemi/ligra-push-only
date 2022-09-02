@@ -1,0 +1,14 @@
+apps/*.h
+BC
+BellmanFord
+BFS
+BFSCC
+CF
+KCore
+MIS
+PageRank
+PageRankDelta
+Radii
+Triangle
+apps/result_*
+.vscode/
